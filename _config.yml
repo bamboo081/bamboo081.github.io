@@ -1,0 +1,10 @@
+title: Bamboo Homelab
+description: Public notes, progress logs, and setup details for my homelab.
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+show_downloads: false
+url: "https://bamboo081.github.io"
+plugins:
+  - jekyll-seo-tag
